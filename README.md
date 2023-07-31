@@ -2,5 +2,5 @@
 
 ## Programa Ignite - Rocketseat
 
-### Confira em:
+### Confira meu projeto em:
 https://react-dt-money-lac.vercel.app/
